@@ -1,0 +1,21 @@
+body {
+	background-color: lightyellow;
+}
+
+h1	{color:#72a1d4;
+	font-family:IMPACT;
+	font-size: 100px;
+	text-align: center;
+}
+	
+p{color: ##a6dd95:
+	font-family:HELVETICA;
+	font-size: 24px;
+	padding: 23px;}
+
+a{text-decoration: none;
+	color:#72a1d4;
+	font-family:HELVETICA;
+	font-size: 24px;}
+
+a:hover{color: black;}
